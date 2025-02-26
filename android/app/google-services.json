@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846324298054",
+    "project_id": "almacenamiento-dca5b",
+    "storage_bucket": "almacenamiento-dca5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846324298054:android:d09a845830ec88dae27547",
+        "android_client_info": {
+          "package_name": "com.example.untitled6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846324298054-juc00aer08iqmdpm8h3s6culvucvk83d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled6",
+            "certificate_hash": "c6ee63a43b995b9cc6ce56cd1d3c86f1cb0433a1"
+          }
+        },
+        {
+          "client_id": "846324298054-3rmgjtc06kejhe92td2m4mbn4o11ah5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8_e6XQRes4Z9jr4xFsPSyIr4lDW7_IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846324298054-3rmgjtc06kejhe92td2m4mbn4o11ah5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -31,11 +31,11 @@ dependencies:
   flutter:
     sdk: flutter
   firebase_core: ^3.11.0
-  firebase_auth: ^5.4.2
+  firebase_auth: ^5.5.1
   google_sign_in: ^6.2.2
   cloud_firestore: ^5.6.3
   firebase_storage: ^12.4.2
-  firebase_messaging: ^15.2.2
+  firebase_messaging: ^15.2.4
   googleapis_auth: ^1.6.0
 
     # Google Sign In
@@ -72,7 +72,7 @@ flutter:
   assets:
     - assets/google.png
     - assets/logo.png  # Si tienes un logo de la app, también agrégalo aquí
-    - assets/almacenamiento-dca5b-firebase-adminsdk-fbsvc-882c13fe97.json
+    - assets/almacenamiento-dca5b-firebase-adminsdk-fbsvc-0f56aa36af.json
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.

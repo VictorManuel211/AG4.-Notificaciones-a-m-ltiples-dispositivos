@@ -9,7 +9,7 @@ class NotificationService {
   static Future<void> sendPushNotification(String token, String message) async {
     try {
       // 🔹 Cargar credenciales del archivo JSON
-      final serviceAccount = await rootBundle.loadString('assets/almacenamiento-dca5b-firebase-adminsdk-fbsvc-882c13fe97.json');
+      final serviceAccount = await rootBundle.loadString('assets/almacenamiento-dca5b-firebase-adminsdk-fbsvc-0f56aa36af.json');
       final credentials = ServiceAccountCredentials.fromJson(serviceAccount);
 
       // 🔹 Obtener cliente autenticado
